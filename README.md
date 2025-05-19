@@ -102,7 +102,6 @@ Before you begin, make sure the following tools are installed:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/el-sherbini/Hybrid-Selenium-RestAssured-Automation-Suite.git
-   cd OmniTest
    ```
 
 2. **Install Dependencies**:
